@@ -4,7 +4,7 @@ El Duo Q Challenge empezará en el momento en el día 24 de mayo del 2021.
 
 1. 40 días de competición. El torneo termina el día 2 de julio del 2021.
 2. El dúo que termine con mas elo se poclamará como campeón del torneo
-2.1 Obligatorio jugar juntos
+   - Obligatorio jugar juntos
 3. SoloQ only (LAN)
 4. Prohibido sniping
 5. Prohibido jugar sin el duo designado o elegido.
