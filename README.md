@@ -19,7 +19,7 @@ El Duo Q Challenge empezará en el momento en el día 24 de mayo del 2021.
 
 8. 
 
-9 
+9.
 
 10. Y por último, está prohibido cualquier tipo de actitud tóxica que vaya en contra del código de invocador.
 ## Restricciones De Duos
