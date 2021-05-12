@@ -7,4 +7,7 @@
 ## Premios
 
 ## Instrucciones de instalacion de la app (Opcional)
+- Descargan el zip del proyecto
 ![Primer paso](https://github.com/Nselb/duo-q-challenge/blob/main/Assets/Screen1.png)
+- Descomprimen la carpeta y ejecutan en ShelScript el archivo señalado
+![Segundo paso](https://github.com/Nselb/duo-q-challenge/blob/main/Assets/Screen2.png)
